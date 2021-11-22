@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiniFantasy Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+    - {fileID: 2800000, guid: b4a143bbc08da9b429a3c78d04df3ce0, type: 3}
+    - {fileID: 2800000, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+    - {fileID: 2800000, guid: 661eef504e4afab48b498a5e4b88a428, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8667918926946685548, guid: 661eef504e4afab48b498a5e4b88a428, type: 3}
+  - {fileID: 9213741347941227320, guid: 661eef504e4afab48b498a5e4b88a428, type: 3}
+  - {fileID: 4137246751814953870, guid: b4a143bbc08da9b429a3c78d04df3ce0, type: 3}
+  - {fileID: -9138745791099252548, guid: b4a143bbc08da9b429a3c78d04df3ce0, type: 3}
+  - {fileID: 2390757272314868177, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -4789548814206109747, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 3244145816730369063, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 7835142486446003816, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -2784588437047556075, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -7217348871357176810, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 669414927726043239, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -2816085319816459297, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 6001727014483959143, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 609158927897737126, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -7492770231571634132, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 216850059728359375, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -5751794854050388275, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -1644776373306472895, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 5654757833078730701, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -1254356694275527506, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -4729257109912261695, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -2412755840708792203, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -3207387508226480730, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -6523334555459242297, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -1984462538215096881, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -7487598158250410749, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 6861315946886594790, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 3899612455587163182, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 7330411255841488025, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -5525645130274110405, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: -7171242423892303964, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 333306374016542641, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 2001295959875810404, guid: 10faf0ebd523fbb46a852ebe530cc166, type: 3}
+  - {fileID: 3989115921078751139, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -2232588260621223008, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -3357707860964885180, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -9050845263534901580, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: 1692344186669687708, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -3016971208954903359, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: 4016580639043956364, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -7267412387322207863, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: 2024074989167273644, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: 341201168551098424, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -8320104082942662432, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -6404648669078617216, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: -4503622882156401908, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  - {fileID: 6259282975473592760, guid: 4b29002effff25349b1f925775bd248f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Minifantasy_DungeonCliffTiles_1
+  - Minifantasy_DungeonCliffTiles_0
+  - Minifantasy_DungeonDoorTiles_1
+  - Minifantasy_DungeonDoorTiles_0
+  - Minifantasy_DungeonWallTiles_28
+  - Minifantasy_DungeonWallTiles_27
+  - Minifantasy_DungeonWallTiles_26
+  - Minifantasy_DungeonWallTiles_25
+  - Minifantasy_DungeonWallTiles_24
+  - Minifantasy_DungeonWallTiles_23
+  - Minifantasy_DungeonWallTiles_22
+  - Minifantasy_DungeonWallTiles_21
+  - Minifantasy_DungeonWallTiles_20
+  - Minifantasy_DungeonWallTiles_12
+  - Minifantasy_DungeonWallTiles_13
+  - Minifantasy_DungeonWallTiles_10
+  - Minifantasy_DungeonWallTiles_11
+  - Minifantasy_DungeonWallTiles_16
+  - Minifantasy_DungeonWallTiles_17
+  - Minifantasy_DungeonWallTiles_14
+  - Minifantasy_DungeonWallTiles_15
+  - Minifantasy_DungeonWallTiles_18
+  - Minifantasy_DungeonWallTiles_19
+  - Minifantasy_DungeonWallTiles_7
+  - Minifantasy_DungeonWallTiles_6
+  - Minifantasy_DungeonWallTiles_5
+  - Minifantasy_DungeonWallTiles_4
+  - Minifantasy_DungeonWallTiles_3
+  - Minifantasy_DungeonWallTiles_2
+  - Minifantasy_DungeonWallTiles_1
+  - Minifantasy_DungeonWallTiles_0
+  - Minifantasy_DungeonWallTiles_9
+  - Minifantasy_DungeonWallTiles_8
+  - Minifantasy_DungeonFloorTiles_9
+  - Minifantasy_DungeonFloorTiles_8
+  - Minifantasy_DungeonFloorTiles_7
+  - Minifantasy_DungeonFloorTiles_6
+  - Minifantasy_DungeonFloorTiles_5
+  - Minifantasy_DungeonFloorTiles_4
+  - Minifantasy_DungeonFloorTiles_3
+  - Minifantasy_DungeonFloorTiles_2
+  - Minifantasy_DungeonFloorTiles_1
+  - Minifantasy_DungeonFloorTiles_0
+  - Minifantasy_DungeonFloorTiles_12
+  - Minifantasy_DungeonFloorTiles_13
+  - Minifantasy_DungeonFloorTiles_10
+  - Minifantasy_DungeonFloorTiles_11
+  m_RenderDataMap: {}
+  m_Tag: MiniFantasy Atlas
+  m_IsVariant: 0
