@@ -22,6 +22,13 @@ public class LeverScript : MonoBehaviour
     torchScript torchScriptOne;
 
 
+    public EdgeCollider2D col1;
+    public EdgeCollider2D col2;
+    public EdgeCollider2D col3;
+    public EdgeCollider2D col4;
+    public EdgeCollider2D col5;
+    public EdgeCollider2D col6;
+
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -42,7 +49,12 @@ public class LeverScript : MonoBehaviour
                 torchScriptOne.Toggle(); //flip lights
                 spriteRenderer.sprite = onLever;
 
-                tilePath.GetComponent<TilemapCollider2D>().enabled = !tilePath.GetComponent<TilemapCollider2D>().enabled;
+                col1.enabled = false;
+                col2.enabled = false;
+                col3.enabled = false;
+                col4.enabled = false;
+                col5.enabled = false;
+                col6.enabled = false;
             }
         }
     }

@@ -18,6 +18,9 @@ public class PlayerController : MonoBehaviour {
     public int health = 5;
     public bool alive = true;
 
+    // Hud connection
+    public GameObject deathHud;
+
     // Private state info
     Rigidbody2D body;
     float horizontal;
@@ -40,12 +43,6 @@ public class PlayerController : MonoBehaviour {
                 // Take damage
                 enemy.GetComponent<EnemyScript>().TakeDamage(2);
             }
-        }
-
-
-        if (alive == false)
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
@@ -77,6 +74,7 @@ public class PlayerController : MonoBehaviour {
         // Are we dead?
         if (health == 0) {
             alive = false;
+            deathHud.SetActive(true);
         }
     }
 }

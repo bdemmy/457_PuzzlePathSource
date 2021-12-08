@@ -16,7 +16,7 @@ public class Level2EndDoor : MonoBehaviour
         if (collision.gameObject == Player )
         {
             // Finished the level, do something here
-            SceneManager.LoadScene("Level1");
+            SceneManager.LoadScene("StartScreen");
         }
     }
 }

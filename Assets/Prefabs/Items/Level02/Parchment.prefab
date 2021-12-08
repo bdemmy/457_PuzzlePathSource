@@ -116,7 +116,13 @@ MonoBehaviour:
   - {fileID: 8919798394784847276, guid: 485ce92c78b93a24b98d294e18dcb15d, type: 3}
   - {fileID: 8919798394784847276, guid: 64884b3498767234a8375c5a8bf83e2d, type: 3}
   - {fileID: 8919798394784847276}
+  - {fileID: 4165709660889803677, guid: b1fe00e75ae399d4596a33fb196a6086, type: 3}
   - {fileID: 8919798394784847276, guid: 475c5a335836f344399ceed6296cba00, type: 3}
+  - {fileID: 3768274733018972827, guid: a68c3265c8eb7794e9ec577aaecc5173, type: 3}
+  - {fileID: 7627747787010962631, guid: a902e8857761d534eb9bc5af7b60d767, type: 3}
+  - {fileID: 5614574720179745332, guid: 6dc0c6906b8787f4e9a5dafeb92bc56b, type: 3}
+  - {fileID: 1051410966994543845, guid: 52d6d5b5d9bec214b8a08fba326a07ca, type: 3}
+  - {fileID: 4165709660889803677, guid: b1fe00e75ae399d4596a33fb196a6086, type: 3}
   worldSprite: {fileID: 21300000, guid: ef4cb2dea81d8df4a938cf0495dc53d5, type: 3}
   hudSprite: {fileID: 21300000, guid: ef4cb2dea81d8df4a938cf0495dc53d5, type: 3}
   player: {fileID: 0}

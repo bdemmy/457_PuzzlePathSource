@@ -64,7 +64,7 @@ public class ChestScript : MonoBehaviour {
 
                 Instantiate(keyPrefab, keySpawnpos.transform.position, Quaternion.identity);
 
-                enemyToEnable.SetActive(true);
+                //enemyToEnable.SetActive(true);
             }
 
             //back out manually

@@ -18,11 +18,13 @@ public class EnemyScript : MonoBehaviour
 
     NavMeshAgent agent;
     float lastTime = 0.0f;
+    Rigidbody2D body;
 
     void Awake() {
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
+        body = GetComponent<Rigidbody2D>();
     }
 
     void Update() {
@@ -55,6 +57,17 @@ public class EnemyScript : MonoBehaviour
         } else {
             agent.isStopped = true;
         }
+
+
+        if (agent.velocity.x < 0) {
+            GetComponent<Animator>().SetBool("FacingLeft", true);
+        }
+        else if (agent.velocity.x > 0) {
+            GetComponent<Animator>().SetBool("FacingLeft", false);
+        }
+
+        GetComponent<Animator>().SetFloat("XVelocity", agent.velocity.x);
+        GetComponent<Animator>().SetFloat("YVelocity", agent.velocity.y);
     }
 
 
